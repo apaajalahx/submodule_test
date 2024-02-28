@@ -1,0 +1,4 @@
+[submodule "module_apalah"]
+	path = module_apalah
+	url = https://github.com/apaajalahx/submodule_test
+	branch = module_apalah
